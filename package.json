@@ -1,0 +1,6 @@
+{
+  "name":"@fc24/mongojs",
+  "dependencies": {
+    "bluebird": "3.3.4"
+  }
+}
