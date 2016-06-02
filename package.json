@@ -1,6 +1,9 @@
 {
-  "name":"@fc24/mongojs",
+  "name": "promised-mongojs",
+  "version": "0.0.1",
+  "author": "christoph.hagenbrock@googlemail.com",
   "dependencies": {
-    "bluebird": "3.3.4"
+    "bluebird": "3.4.0",
+    "mongojs": "2.4.0"
   }
 }
